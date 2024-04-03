@@ -1,4 +1,4 @@
-# Minimalist_Task_Reminder
+
 # ZenReminder
 
 ## Description
